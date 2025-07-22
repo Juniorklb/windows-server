@@ -69,7 +69,7 @@ Created shared folders (`HR_Reports`, `Sales_Data`, etc.) with NTFS and Share pe
 
 Screenshots of each configuration step and UI interaction are included in the project PDF.
 
-📄 [Download Full Project Report with Screenshots (PDF)](Junior_Kalomba_Windows_Server_Project_Formatted.pdf)
+📄 [Download Full Project Report with Screenshots (PDF)](Junior_Kalomba_Windows_Server_Project_Final.pdf)
 
 ---
 
@@ -91,7 +91,7 @@ This project replicates a typical enterprise network infrastructure, showcasing 
 
 ## 🔗 Links
 
-- 📄 [Final Project PDF](Junior_Kalomba_Windows_Server_Project_Formatted.pdf)
+- 📄 [Final Project PDF](Junior_Kalomba_Windows_Server_Project_Final.pdf)
 - 🎥 [Live Demo Video](link-to-video) *(coming soon)*
 
 # windows-server
